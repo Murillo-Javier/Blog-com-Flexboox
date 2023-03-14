@@ -363,6 +363,10 @@ img {
 		font-size: 2.25em;
 		color: $color_3;
 	}
+	a {
+		color: #001135;
+		text-decoration: underline;
+	}
 }
 @media (max-width: 800px) {
 	.preco {
